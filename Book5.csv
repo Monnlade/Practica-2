@@ -1,0 +1,14 @@
+﻿Maquina,Tipo_Defecto,Qty
+SMT-0,PCB danado por guillotina,13
+SMT-0,LED Invertido,10
+SMT-0,Led dañado,6
+SMT-1,PCB danado por guillotina,135
+SMT-1,comp. levantado,59
+SMT-1,Led dañado,39
+SMT-1,Comp. faltante de SMT  ,32
+SMT-1,Comp. desalineado,19
+SMT-2,PCB danado por guillotina,103
+SMT-2,comp. levantado,69
+SMT-2,Comp. desalineado,36
+SMT-2,PCB Pintado y/o rayado,19
+SMT-2,Conector dañado,7
